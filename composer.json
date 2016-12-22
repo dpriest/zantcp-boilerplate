@@ -14,7 +14,8 @@
         }
     ],
     "require": {
-        "zanphp/zan": "dev-master"
+        "zanphp/zan": "dev-master",
+        "zanphp/nova": "dev-master"
     },
     "autoload": {
         "psr-4": {
