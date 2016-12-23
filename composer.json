@@ -6,6 +6,10 @@
             "url"   : "https://github.com/youzan/zan.git"
         },
         {
+          "type"  : "git",
+          "url"   : "http://gitlab.qima-inc.com/php-lib/nova-asnyc.git"
+        },
+        {
             "packagist": false
         },
         {
